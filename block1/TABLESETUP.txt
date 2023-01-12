@@ -1,0 +1,22 @@
+table1
+--
+castle id (PRIMARY)
+castle name
+external link
+description
+year built
+
+table2
+--
+image id (PRIMARY)
+image name
+castle id (FOREIGN)
+
+table3
+--
+article id (PRIMARY)
+article name
+author
+date written
+source
+castle id (FOREIGN)

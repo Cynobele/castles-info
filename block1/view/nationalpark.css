@@ -1,0 +1,14 @@
+/* Special Styles that change Bootstrap */
+.card {
+	margin-bottom : 5px ;
+}
+.card-header h1 {
+	color : #0000a0 ;
+}
+.card-title {
+	color : #0000a0 ;
+}
+
+body{
+	background-color: dimgray;
+}
